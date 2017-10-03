@@ -14,3 +14,5 @@ III. Compares length of lists and returns the shorter with limited bulit-in func
   VI. Converts numbers greater than or equal to 1000 to their 'word' counterpart using only list processing : lab06.rkt :: lab06-7.pdf
  
  VII. Converts numbers less than 1000 to their 'word' form using list processing and combines with the previous lab to create a program that converts numbers through the sextillions to their 'word' form : lab07.rkt :: lab06-7.pdf
+
+math01 through math05, completed assigned exercises from the Book of Proof. 
