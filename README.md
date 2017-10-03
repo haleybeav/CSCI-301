@@ -7,7 +7,7 @@ Formal Languages and Functional Programming
  
 III. Compares length of lists and returns the shorter with limited bulit-in function use : lab03.rkt :: lab03.pdf
 
- IV. Composes two functions using two types of recursion : lab04.rkt :: lab04.pdf
+ IV. Composes two functions using two types of recursion, tail and repeated : lab04.rkt :: lab04.pdf
  
   V. Pig-Latin translator using limited utility functions and list processing : lab05.rkt :: lab05.pdf
   
